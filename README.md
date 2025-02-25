@@ -29,10 +29,6 @@
 4. **Ticket Update:** The ticket is updated with the assigned team, determined priority, and status set to `ASSIGNED`.
 5. **Response:** The updated ticket details are returned in a JSON response, along with a success message.
 
-## Challenges Faced 😓
-- **Complex Context Analysis:** Interpreting free-form text to reliably determine routing requires careful keyword mapping.
-- **Overlapping Keywords:** Managing conflicting keywords for multiple teams (e.g., "server" vs. "database") required prioritization.
-- **Scalability:** Ensuring the system design allows for future integration with a real AI service without major refactoring.
 
 ## Problems Resolved & Benefits 🎯
 - **Eliminates Manual Errors:** Automation reduces mistakes in assigning tickets to the wrong team.
@@ -41,9 +37,11 @@
 - **Scalable & Future-Proof:** Lays the groundwork for advanced AI integration as support needs evolve.
 - **Enhanced User Experience:** Improved ticket handling and resolution lead to higher satisfaction levels among users.
 
-<img src="https://github.com/Rahul9766/ITSupport-Ticket-Routing-Application/blob/9f778f44687da43af0a5a3463cf0030018b177bb/test_output/Screenshot%202025-02-25%20132622.png" alt="Test Output Screenshot 1" width="300" />
+## OUTPUT 🎯
 
-<img src="https://github.com/Rahul9766/ITSupport-Ticket-Routing-Application/blob/9f778f44687da43af0a5a3463cf0030018b177bb/test_output/Screenshot%202025-02-25%20132622.png" alt="Test Output Screenshot 2" width="300" />
+<img src="https://github.com/Rahul9766/ITSupport-Ticket-Routing-Application/blob/9f778f44687da43af0a5a3463cf0030018b177bb/test_output/Screenshot%202025-02-25%20132622.png" alt="Test Output Screenshot 1" width="500" />
 
-<img src="https://github.com/Rahul9766/ITSupport-Ticket-Routing-Application/blob/9f778f44687da43af0a5a3463cf0030018b177bb/test_output/Screenshot%202025-02-25%20132622.png" alt="Test Output Screenshot 3" width="300" />
+<img src="https://github.com/Rahul9766/ITSupport-Ticket-Routing-Application/blob/9f778f44687da43af0a5a3463cf0030018b177bb/test_output/Screenshot%202025-02-25%20132622.png" alt="Test Output Screenshot 2" width="500" />
+
+<img src="https://github.com/Rahul9766/ITSupport-Ticket-Routing-Application/blob/9f778f44687da43af0a5a3463cf0030018b177bb/test_output/Screenshot%202025-02-25%20132622.png" alt="Test Output Screenshot 3" width="500" />
 
