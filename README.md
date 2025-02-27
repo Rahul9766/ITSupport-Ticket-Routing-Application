@@ -1,5 +1,5 @@
 # Intelligent IT Support Ticket Routing System 🚀
-
+ 
 ## Project Overview 📋
 - **Automated Ticket Routing:** Automatically classify and route IT support tickets to the appropriate team.
 - **AI-Powered Simulation:** Uses a mock AI API to analyze the ticket description and decide the assigned team and priority.
